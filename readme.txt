@@ -5,3 +5,6 @@
 
 
 增加的一行
+
+
+Creating a new branch is quick & simple.
